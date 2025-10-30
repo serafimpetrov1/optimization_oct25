@@ -1,0 +1,19 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data
+.RData
+
+# Cache and temp files
+.Rcache/
+.RData
+.Ruserdata
+
+# Logs and reports
+*.log
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
